@@ -1,4 +1,7 @@
 # cursor-claw-release
+
+![Banner](./banner.png)
+
 Releases of Cursor Claw.app
 
 This is also an issue tracker or discussion platform for Cursor Claw. 
